@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Forum&display=swap');
+
+body{
+    background: #1B1B1B;
+    font-size: 28px;
+}
+
+h1{
+    color: #FF89A5;
+    font-size: 78px;
+    font-weight: bold;
+    font-family: "Comfortaa";
+}
+
+h2{
+    color: aliceblue;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Comfortaa";
+}
